@@ -1,5 +1,5 @@
 # WPI
-Projekty domowe z labolatoriów WPI na MIMUW
+Projekty domowe z labolatoriów Wstępu do Programowania na MIMUW
 
 
 
